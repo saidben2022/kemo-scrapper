@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
   "url": "https://github.com/saidben2022/kemo-scrapper/releases/download/v1.0.1/KemoGrabber.exe",
-  "sha256": "B571777CD4006D80CBDF7237B383EFACAEAE9EA60D771FD8540466741BE9A7E9",
+  "sha256": "17EA42A28795D1D04EFEC3C33E5BE6C6B7198926314B3F92B994C86C8EE4318E",
   "notes": "Added auto-update support and pagination fix."
 }
